@@ -1,6 +1,6 @@
 {
   "name": "hubot-mobilefriendly",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Use Google PageSpeed API to report on a site's mobile goodness.",
   "main": "index.coffee",
   "scripts": {
