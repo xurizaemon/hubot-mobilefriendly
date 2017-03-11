@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git://github.com/hubot-scripts/hubot-mobilefriendly.git"
   },
-  "keywords": ["hubot","hubot-scripts","pagespeed","mobilefriendly"],
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "pagespeed",
+    "mobilefriendly"
+  ],
   "author": "Chris Burgess <chris@giantrobot.co.nz>",
   "license": "MIT",
   "bugs": {
@@ -23,6 +28,7 @@
   "devDependencies": {
     "chai": "*",
     "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-mocha-test": "~0.7.0",
     "grunt-release": "~0.6.0",
